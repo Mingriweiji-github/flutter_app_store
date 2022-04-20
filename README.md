@@ -7,6 +7,40 @@ A new Flutter project.
 
 ![](https://tva1.sinaimg.cn/large/e6c9d24ely1h1gc486ym0g20880hsu0y.gif)
 
+### pubspec.yaml
+
+```yaml
+# 网络请求
+  dio: ^4.0.4 
+  # 日期处理
+  date_format: ^2.0.5
+  # 图片缩小放大
+  photo_view: ^0.13.0
+  # Dart常用工具类库:包含日期，正则，倒计时，时间轴
+  common_utils: ^2.0.0
+  # 五星评分
+  flutter_rating_bar: ^4.0.0
+```
+
+
+
+### 技术点
+
+- dio 网络请求
+
+- 多行文字自动换行
+
+- 网络图片的加载(`Image.network(url)`)
+
+- `PhotoPreview`多图组件预览显示
+
+- `ListView.builder`的使用
+
+- `TabBarView` + `DefaultTabController` 的结合使用
+
+- `ClipRRect`剪切圆角图片
+
+  
 
 ## Getting Started
 
