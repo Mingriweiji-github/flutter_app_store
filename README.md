@@ -39,6 +39,7 @@ A new Flutter project.
 - `TabBarView` + `DefaultTabController` 的结合使用
 
 - `ClipRRect`剪切圆角图片
+- 评分组件的使用
 
   
 
