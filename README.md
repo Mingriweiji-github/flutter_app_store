@@ -1,11 +1,7 @@
 # flutter_app_store
 使用flutter 实现 AppStore 详情页
 
-<figure>
-<img src="https://tva1.sinaimg.cn/large/e6c9d24ely1h1gbrt6w3qj20u01sxgta.jpg" width=200 />
-<img src="https://tva1.sinaimg.cn/large/e6c9d24ely1h1gbrekvn0j20u01sxgsc.jpg" width=200 />
-</figure>
-
+<img src="https://tva1.sinaimg.cn/large/e6c9d24ely1h1gbrt6w3qj20u01sxgta.jpg" width=200 /><img src="https://tva1.sinaimg.cn/large/e6c9d24ely1h1gbrekvn0j20u01sxgsc.jpg" width=200 />
 
 A new Flutter project.
 
